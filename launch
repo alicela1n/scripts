@@ -1,0 +1,2 @@
+#!/bin/sh
+${1} </dev/null &>/dev/null &
